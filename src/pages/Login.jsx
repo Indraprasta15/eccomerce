@@ -98,8 +98,8 @@ const Login = () => {
                 {error && 
                     <Error>Something went wrong...</Error>
                 }
-                <Link>DO NOT YOU REMEMBER THE PASSWORD?</Link>
-                <Link>CREATE YOUR ACCOUNT!</Link>
+                <Link>Don't you remember your password?</Link>
+                <Link>Create your Account!</Link>
             </Form>
         </Wrapper>
     </Container>
