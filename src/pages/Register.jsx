@@ -58,7 +58,7 @@ const Register = () => {
   return (
     <Container>
         <Wrapper>
-            <Title>CREATE AN ACCOUNT</Title>
+            <Title>Create an account</Title>
             <Form>
                 <Input placeholder="First Name" />
                 <Input placeholder="Last Name" />
@@ -70,7 +70,7 @@ const Register = () => {
                     By creating an account, I consent to the processing of my personal data
                     in accordance with the <b>PRIVACY POLICY</b> 
                 </Agreement>
-                <Button>CREATE</Button>
+                <Button>Create</Button>
             </Form>
         </Wrapper>
     </Container>
